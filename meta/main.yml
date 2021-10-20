@@ -1,2 +1,13 @@
 ---
-name: admin
+galaxy_info:
+  author: Svet
+  description: Role for add admin
+  role_name: users
+  namespace: rzsvet
+
+  license: Apache License, Version 2.0
+
+  galaxy_tags:
+    - user
+
+dependencies: []
